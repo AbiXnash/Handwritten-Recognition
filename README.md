@@ -30,7 +30,7 @@ Follow these simple steps to set up and run the Handwritten Digit Recognition sy
 2. Navigate to the project directory:
 
    ```bash
-   cd handwritten-digit-recognition
+   cd Handwritten-Recognition
    ```
 
 ### Usage
